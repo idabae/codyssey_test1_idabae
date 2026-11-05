@@ -1,1 +1,1 @@
-# codyssey_test1_idabae
+홀리몰리 안녕하세요! 첫번째 git 실습입니다.
